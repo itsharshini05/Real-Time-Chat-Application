@@ -39,6 +39,5 @@ Can be scaled with features like authentication, file sharing, and message persi
 Deliverable: A working, real-time chat interface that is responsive and includes basic message history.
 
 
-
-*OUTPUT*:
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/f6014d4e-4e1f-41f8-9807-fd0ad31dba8c)
 
