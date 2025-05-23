@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:A Real-Time Chat Application enables users to communicate instantly, with messages delivered and displayed without needing to refresh the page. This project uses WebSockets for continuous two-way communication between clients and the server, making interactions fast and seamless—similar to popular platforms like WhatsApp or Slack.
+*DESCRIPTION*: A Real-Time Chat Application enables users to communicate instantly, with messages delivered and displayed without needing to refresh the page. This project uses WebSockets for continuous two-way communication between clients and the server, making interactions fast and seamless—similar to popular platforms like WhatsApp or Slack.
 
 The frontend is built using React.js (or Vue.js), allowing for a dynamic and responsive user interface. React handles rendering and updating UI components efficiently based on real-time data changes. The design is made responsive using CSS or frameworks like Tailwind CSS or Bootstrap, ensuring the chat interface works well on mobile and desktop devices.
 
